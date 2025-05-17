@@ -1,13 +1,13 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "Forsaken old lobby music",
+    "description": "Forsaken Forever For all",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "the-camilox0g"
     },
     "icons":
     {
-        "512": "icon_512.png"
+        "512": "1con_512"
     },
     "manifest_version": 3,
     "mod":
@@ -17,10 +17,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/Forsaken lobby theme.mp3",
             ],
             "browser_sounds":
             {
